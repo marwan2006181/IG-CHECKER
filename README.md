@@ -1,7 +1,7 @@
 # IG-CHECKER
 
 
-// 2-step installision:
+// 2-step installation:
 
 // linux:
 
