@@ -1,4 +1,4 @@
-
+جدي
 
 from os import system as cmd
 
